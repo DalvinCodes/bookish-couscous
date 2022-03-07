@@ -8,3 +8,10 @@ The authentication server will use the following providers:
 - Facebook
 - Microsoft
 - Apple
+
+Frameworks
+- [OAuth2](https://github.com/golang/oauth2)
+- [Go-Fiber](https://github.com/gofiber/fiber)
+  - A blazing fast HTTP engine
+- [GoDotEnv](https://github.com/joho/godotenv)
+  - Loads environment variables from .env files
